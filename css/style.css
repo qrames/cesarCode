@@ -11,7 +11,7 @@ header{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 15% 0;
+    padding: 10% 0;
 }
 
 header h1 {
