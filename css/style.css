@@ -1,3 +1,28 @@
 body{
-    
+
+}
+
+
+header{
+    background-image: url("https://static.godzilist.com/img/featured/b6fb5f9c0c04072cf96fd3675bf9b7bb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 15% 0;
+}
+
+header h1 {
+    color: lightgrey;
+    font-family: 'Quattrocento', serif;
+    font-size: 11em;
+    text-align: center;
+    width: 100%;
+}
+
+header img {
+    width: 50px;
+    height: 50px;
 }
